@@ -10,7 +10,6 @@ Each scenario consists of two documents — a **Risk Assessment Report** and a *
 
 | # | Organization | Industry | Difficulty | Frameworks | Report | Checklist |
 |---|---|---|---|---|---|---|
-| 0 | Botium Toys *(original)* | Retail / E-commerce | 🟢 Beginner | PCI DSS, GDPR, SOC 2 | — | [Checklist](./checklist-0-botium-toys.md) |
 | 1 | MediQuick Urgent Care | Healthcare | 🟢 Beginner | HIPAA, NIST CSF | [Report](./playbook-1-beginner-mediquick.md) | [Checklist](./checklist-1-beginner-mediquick.md) |
 | 2 | FinServe Credit Union | Financial Services | 🟡 Intermediate | PCI DSS v4.0, GLBA, NCUA | [Report](./playbook-2-intermediate-finserve.md) | [Checklist](./checklist-2-intermediate-finserve.md) |
 | 3 | AeroDyne Systems Inc. | Defense / Aerospace | 🔴 Advanced | CMMC Level 2, NIST SP 800-171, MITRE ATT&CK | [Report](./playbook-3-advanced-aerodyne.md) | [Checklist](./checklist-3-advanced-aerodyne.md) |

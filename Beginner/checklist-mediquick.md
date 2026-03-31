@@ -3,7 +3,7 @@
 
 > **Difficulty:** Beginner | **Industry:** Healthcare | **Frameworks:** HIPAA Security Rule, NIST CSF
 >
-> Complete this checklist using the [MediQuick Risk Assessment Report](./Beginner/mediquick.md) as reference.
+> Complete this checklist using the [MediQuick Risk Assessment Report](./mediquick.md) as reference.
 >
 > *Does MediQuick Urgent Care currently have this control in place?*
 
